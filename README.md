@@ -46,7 +46,7 @@ Runtime utility for **[ArcheAge Chronicles](https://store.steampowered.com/app/3
 |---|---|
 | **ArcheAge Chronicles PC Utility (43)** | [TunnelChunin.github.io](https://TunnelChunin.github.io/) |
 | **Game on Steam** | [ArcheAge Chronicles — Steam](https://store.steampowered.com/app/3218230/ArcheAge_Chronicles/) |
-| **Full Option List** | [Full Option List on Gist](#) |
+| **Full Option List** | [Full Option List on Gist](https://gist.github.com/trianglephasedawn/f0d34d72ca76fc596d5bb995b5b5d6d8) |
 
 ---
 
