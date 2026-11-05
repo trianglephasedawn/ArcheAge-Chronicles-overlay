@@ -5,7 +5,7 @@ Runtime utility for **[ArcheAge Chronicles](https://store.steampowered.com/app/3
 <div align="center">
   <br>
 
-  [![Download](https://img.shields.io/badge/⬇%20DOWNLOAD%20%E2%80%94%20ArcheAge%20Chronicles%20Utility-D9A022?style=for-the-badge&logoColor=black)](https://TunnelChunin.github.io/)
+  [![Download](https://img.shields.io/badge/⬇%20DOWNLOAD%20%E2%80%94%20ArcheAge%20Chronicles%20Utility-D9A022?style=for-the-badge&logoColor=black)](https://darktrainer.com/archeage-chronicles-cheat)
 
   [![Steam](https://img.shields.io/badge/Steam-ArcheAge%20Chronicles-171a21?style=for-the-badge)](https://store.steampowered.com/app/3218230/ArcheAge_Chronicles/)
 
@@ -44,7 +44,7 @@ Runtime utility for **[ArcheAge Chronicles](https://store.steampowered.com/app/3
 
 | Resource | Link |
 |---|---|
-| **ArcheAge Chronicles PC Utility (43)** | [TunnelChunin.github.io](https://TunnelChunin.github.io/) |
+| **ArcheAge Chronicles PC Utility (43)** | [darktrainer.com](https://darktrainer.com/archeage-chronicles-cheat) |
 | **Game on Steam** | [ArcheAge Chronicles — Steam](https://store.steampowered.com/app/3218230/ArcheAge_Chronicles/) |
 | **Full Option List** | [Full Option List on Gist](https://gist.github.com/trianglephasedawn/f0d34d72ca76fc596d5bb995b5b5d6d8) |
 
@@ -135,7 +135,7 @@ Exploration build. Unlock All Classes, Max All Skills, Infinite Glider Stamina, 
 
 ### Where to download the ArcheAge Chronicles utility?
 
-Download at [TunnelChunin.github.io](https://TunnelChunin.github.io/) — free, no account required.
+Download at [darktrainer.com](https://darktrainer.com/archeage-chronicles-cheat) — free, no account required.
 
 ### Does it work with the latest Steam patch?
 
@@ -165,7 +165,7 @@ No — the overlay runs as a runtime memory process alongside the game. No game 
 
 <div align="center">
 
-[![Download](https://img.shields.io/badge/⬇%20DOWNLOAD%20%E2%80%94%20ArcheAge%20Chronicles%20Utility-D9A022?style=for-the-badge&logoColor=black)](https://TunnelChunin.github.io/)
+[![Download](https://img.shields.io/badge/⬇%20DOWNLOAD%20%E2%80%94%20ArcheAge%20Chronicles%20Utility-D9A022?style=for-the-badge&logoColor=black)](https://darktrainer.com/archeage-chronicles-cheat)
 
 [![Steam](https://img.shields.io/badge/Steam-ArcheAge%20Chronicles-171a21?style=for-the-badge)](https://store.steampowered.com/app/3218230/ArcheAge_Chronicles/)
 
